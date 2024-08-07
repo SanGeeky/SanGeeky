@@ -30,6 +30,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sangeeky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangeeky" height="30" width="40" /></a>
-<a href="https://dev.to/sangeeky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sangeeky" height="30" width="40" /></a>
 <p align="left"> <a href="https://twitter.com/sangeeky" target="blank"><img src="https://img.shields.io/twitter/follow/sangeeky?logo=twitter&style=for-the-badge" alt="sangeeky" /></a></p>
 </p>
